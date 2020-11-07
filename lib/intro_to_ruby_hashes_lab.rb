@@ -3,7 +3,8 @@ def new_hash
 end
 
 def my_hash
-  Hash.new
+  :cars {chevy, lambo, prius}
+  :cars
 end
 
 def pioneer
