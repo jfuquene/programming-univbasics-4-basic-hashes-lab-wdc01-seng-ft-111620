@@ -1,10 +1,10 @@
 def new_hash
-  {}
+  hash = {}
 end
 
 def my_hash
-  :cars {chevy, lambo, prius}
-  :cars
+  { :cars => "blue"
+  }
 end
 
 def pioneer
